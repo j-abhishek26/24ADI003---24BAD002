@@ -1,16 +1,16 @@
-# 🔹 Experiment 4 – Naive Bayes Classification
+#  Experiment 4 – Naive Bayes Classification
 
-## 🎯 Objective
+##  Objective
 To implement and analyze Naive Bayes classifiers on both text and numerical datasets.
 
 ---
 
-## 📌 Scenario 1 – SMS Spam Detection (Multinomial Naive Bayes)
+##  Scenario 1 – SMS Spam Detection (Multinomial Naive Bayes)
 
-### 🔍 Dataset
+###  Dataset
 SMS Spam Collection Dataset
 
-### ⚙️ Implementation Steps
+###  Implementation Steps
 - Extracted dataset from ZIP
 - Cleaned text using regex (lowercase + remove special characters)
 - Converted text to numerical form using `CountVectorizer`
